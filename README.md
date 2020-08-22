@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a simple todo list project as a good starter for learning react js
+
 
 ## Available Scripts
 
