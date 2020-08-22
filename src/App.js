@@ -18,7 +18,7 @@ class App extends React.Component{
       }
     }
     /*
-    this eyword does not point to the class implicitly therefore we need to 
+    this keyword does not point to the class implicitly therefore we need to 
     bind it to the constructor(arrow function in this case) OR
     this.handleInput = this.handleInput.bind(this);
     */
